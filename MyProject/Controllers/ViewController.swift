@@ -10,7 +10,7 @@ import UIKit
 class ViewController: UIViewController {
 
     class Color {
-        
+        var color = 52
     }
     
     override func viewDidLoad() {
