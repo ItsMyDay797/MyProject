@@ -57,14 +57,38 @@
 			isa = PBXGroup;
 			children = (
 				6FD9AB242886C7DF0055AEFC /* AppDelegate.swift */,
+				6FD9AB3A2886CA7F0055AEFC /* Model */,
+				6FD9AB382886CA630055AEFC /* View */,
+				6FD9AB392886CA710055AEFC /* Controllers */,
 				6FD9AB262886C7DF0055AEFC /* SceneDelegate.swift */,
-				6FD9AB282886C7DF0055AEFC /* ViewController.swift */,
 				6FD9AB2A2886C7DF0055AEFC /* Main.storyboard */,
 				6FD9AB2D2886C7E00055AEFC /* Assets.xcassets */,
 				6FD9AB2F2886C7E00055AEFC /* LaunchScreen.storyboard */,
 				6FD9AB322886C7E00055AEFC /* Info.plist */,
 			);
 			path = MyProject;
+			sourceTree = "<group>";
+		};
+		6FD9AB382886CA630055AEFC /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		6FD9AB392886CA710055AEFC /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				6FD9AB282886C7DF0055AEFC /* ViewController.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		6FD9AB3A2886CA7F0055AEFC /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
